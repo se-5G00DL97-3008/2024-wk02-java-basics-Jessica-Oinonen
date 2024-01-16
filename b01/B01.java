@@ -1,5 +1,3 @@
-package b01;
-
 import java.util.Scanner;
 
 public class B01 {

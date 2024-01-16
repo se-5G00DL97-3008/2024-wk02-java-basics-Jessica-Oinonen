@@ -25,7 +25,7 @@ public class E02 {
 
         System.out.println(num1 + " + " + num2 + ": " + sum);
         System.out.println(num1 +" - " + num2 + ": " + minus);
-        System.out.println(num1 + " * " + num2 + ": " + times);
+        System.out.println(num1 + " x " + num2 + ": " + times);
         System.out.println(num1 + " / " + num2 + ": " + division);
 
 

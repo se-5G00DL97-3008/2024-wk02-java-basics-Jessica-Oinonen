@@ -7,7 +7,7 @@ public class E08 {
 
         do {
             
-            System.out.println("Give a number (0 to exit):");
+            System.out.println("Give a number (0 to quit):");
             number = scanner.nextInt();
 
             if (number > 0) {

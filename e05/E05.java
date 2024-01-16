@@ -1,6 +1,4 @@
-package e05;
-
-    import java.util.Scanner;
+import java.util.Scanner;
 
 public class E05 {
     public static void main(String[] args) {

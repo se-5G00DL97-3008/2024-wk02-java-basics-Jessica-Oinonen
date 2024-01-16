@@ -1,5 +1,3 @@
-package e06;
-
 import java.util.Scanner;
 
 public class E06 {

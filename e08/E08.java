@@ -7,21 +7,18 @@ public class E08 {
 
         do {
             
-            System.out.println("Enter a positive number (enter 0 to exit):");
+            System.out.println("Give a number (0 to exit):");
             number = scanner.nextInt();
 
             if (number > 0) {
                 
                 if (number % 2 == 0) {
-                    System.out.println("The number " + number + " is even.");
+                    System.out.println("Number is even.");
                 } else {
-                    System.out.println("The number " + number + " is odd.");
+                    System.out.println("Number is odd.");
                 }
-            } else if (number < 0) {
-                System.out.println("Please enter a positive number.");
-            } else {
-                System.out.println("Exiting the program. Goodbye!");
-            }
+            
+            } 
 
         } while (number != 0);
 

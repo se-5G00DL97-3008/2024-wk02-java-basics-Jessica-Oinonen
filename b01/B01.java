@@ -5,7 +5,7 @@ public class B01 {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.println("Enter the starting count of bottles:");
+        System.out.println("Enter a number:");
         int bottlesCount = scanner.nextInt();
 
         

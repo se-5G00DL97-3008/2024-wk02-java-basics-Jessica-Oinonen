@@ -7,7 +7,7 @@ public class E06 {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.println("Enter the number for the multiplication table:");
+        System.out.println("Which multiplication table to show?");
 
     
         int number = scanner.nextInt();
@@ -15,12 +15,9 @@ public class E06 {
         
         scanner.close();
 
-        
-        System.out.println("Multiplication Table for " + number + ":");
-
-        for (int i = 1; i <= 10; i++) {
-            int result = number * i;
-            System.out.println(number + " * " + i + " = " + result);
+        for (int i = 0; i <= 10; i++) {
+            int result = i * number;
+            System.out.println(i + " * " + number + " = " + result);
         }
     }
 }

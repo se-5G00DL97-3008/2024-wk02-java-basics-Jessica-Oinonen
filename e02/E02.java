@@ -6,11 +6,11 @@ public class E02 {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.print("Enter the first number: ");
+        System.out.print("Give a number: ");
         int num1 = scanner.nextInt();
 
         
-        System.out.print("Enter the second number: ");
+        System.out.print("Give a number: ");
         int num2 = scanner.nextInt();
 
        

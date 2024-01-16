@@ -18,7 +18,7 @@ public class E04 {
 
 
             if (num1 == 24 && (num2 == 12)){
-                System.out.println("Merry Christmas!");
+                System.out.println("Merry Christmas");
             
         }
     }

@@ -23,10 +23,10 @@ public class E02 {
         int division = (int) (num1 / num2);
         
 
-        System.out.println(num1 + " + " + num2 + ": " + sum);
-        System.out.println(num1 +" - " + num2 + ": " + minus);
-        System.out.println(num1 + " x " + num2 + ": " + times);
-        System.out.println(num1 + " / " + num2 + ": " + division);
+        System.out.println(num1 + " + " + num2 + "= " + sum);
+        System.out.println(num1 +" - " + num2 + "=" + minus);
+        System.out.println(num1 + " x " + num2 + "=" + times);
+        System.out.println(num1 + " / " + num2 + "=" + division);
 
 
 

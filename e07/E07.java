@@ -18,6 +18,7 @@ public class E07 {
             System.out.println(i + " x " + multiplicand + " = " + result);
         }
 
+        
         scanner.close();
     }
 }

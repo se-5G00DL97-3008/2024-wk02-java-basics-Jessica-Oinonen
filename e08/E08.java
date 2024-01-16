@@ -22,6 +22,7 @@ public class E08 {
 
         } while (number != 0);
 
+        
         scanner.close();
     }
 }

@@ -9,7 +9,7 @@ public class E07 {
         int multiplicand = scanner.nextInt();
 
         
-        System.out.println("Until which multiplier?");
+        System.out.println("Until which multiplier should the table show?");
         int multiplierLimit = scanner.nextInt();
 
         

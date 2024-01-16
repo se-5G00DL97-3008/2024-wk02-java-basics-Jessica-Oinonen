@@ -14,18 +14,18 @@ public class E02 {
         int num2 = scanner.nextInt();
 
        
-        scanner.close();
+        scanner.close(); 
 
         
         int sum = (int) (num1 + num2);
-        int times = (int) (num1 * num2);
         int minus = (int) (num1 - num2);
+        int times = (int) (num1 * num2);
         int division = (int) (num1 / num2);
         
 
         System.out.println(num1 + " + " + num2 + ": " + sum);
-        System.out.println(num1 +" * " + num2 + ": " + times);
-        System.out.println(num1 + " - " + num2 + ": " + minus);
+        System.out.println(num1 +" - " + num2 + ": " + minus);
+        System.out.println(num1 + " * " + num2 + ": " + times);
         System.out.println(num1 + " / " + num2 + ": " + division);
 
 

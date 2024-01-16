@@ -13,9 +13,9 @@ public class E08 {
             if (number > 0) {
                 
                 if (number % 2 == 0) {
-                    System.out.println("Number is even.");
+                    System.out.println("Number is even");
                 } else {
-                    System.out.println("Number is odd.");
+                    System.out.println("Number is odd");
                 }
             
             } 

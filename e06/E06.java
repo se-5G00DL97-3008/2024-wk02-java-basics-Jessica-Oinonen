@@ -17,7 +17,7 @@ public class E06 {
 
         for (int i = 0; i <= 10; i++) {
             int result = i * number;
-            System.out.println(i + " * " + number + " = " + result);
+            System.out.println(i + " x " + number + " = " + result);
         }
     }
 }
